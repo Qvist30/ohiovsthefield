@@ -5,3 +5,5 @@ distributed random selection of a different state. In either case a randomly
 assigned congressional district is given, for which the user must live the
 remainder of their lives. Travel within the state is allowed, but you may
 never again leave your assigned state. Good Luck!
+
+Inspired by an ever so brief mention of this thought experiment on the FiveThirtyEight Politics podcast from 10/22/2018.
