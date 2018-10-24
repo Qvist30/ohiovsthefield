@@ -1,4 +1,4 @@
-# ohiovsthefield
+# Ohio vs. The Field
 Allows a user a simple choice. To live out the rest of their meaningless
 existence in Ohio, or to play the field and hope for a winner in a evenly
 distributed random selection of a different state. In either case a randomly
